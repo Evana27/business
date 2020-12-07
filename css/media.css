@@ -1,0 +1,206 @@
+@media(max-width:991px){
+
+    .top-header ul li i {
+        padding-right:0;
+    } 
+    
+    .work-con {
+        position: absolute;
+        transform: translateY(30%);
+    }
+
+    .work-content i{
+
+        padding-bottom: 15px;
+        font-size: 25px;
+    }
+
+    .work-content h3{
+
+        font-size: 22px;
+    }
+
+    .work-content p{
+
+        font-size: 16px;
+    }
+
+    
+
+}
+
+
+
+
+
+@media(max-width:767px){
+    
+    .navbar-brand {
+        width: 70%;
+    }
+
+    .navbar-brand img{
+
+        width: 70%;
+    }
+
+    .hg{
+
+        min-height: 70vh;
+    }
+
+    .banner-text h1{
+
+        font-size: 30px;
+    }
+
+    .banner-text p{
+
+        font-size: 18px;
+    }
+
+    .btn-warning{
+
+        font-size: 16px;
+    }
+
+    .service h1{
+
+        font-size: 25px;
+    }
+
+    .service p {
+
+        font-size:15px ;
+    }
+     
+    
+    .content-align p{
+
+        margin-bottom: 40px;
+    }
+
+    .content{
+
+        margin-left: 0 !important;
+        text-align: center;
+        padding: 15px;
+    }
+
+    .content-align{
+
+        margin-left: 0 !important;
+        text-align: center;
+        margin-right: 0 !important;
+        padding-right: 6%;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .work-content{
+
+        margin-bottom: 22px;
+    }
+
+    
+    .work-con {
+        position: absolute;
+        transform: translateY(30%);
+    }
+
+    .work-content i{
+
+        padding-bottom: 15px;
+    }
+
+    .img-fluid{
+
+        height: 91% !important;
+    }
+
+
+    
+}
+
+@media(max-width:475px){
+
+    .step {
+        position: absolute;
+        top: -35px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 86px;
+        
+    }
+
+    .step-align {
+        position: absolute;
+       left: 50%;
+       top: -35px;    
+        width: 86px;       
+        transform: translateX(-50%);
+    }
+
+    .step-align h3{
+
+        font-size: 40px;
+    }
+
+    .step h3 {
+
+        font-size: 40px;
+        
+    }
+
+    .bg{
+
+        margin-bottom: 80px !important;
+    }
+
+    .work-content{
+
+        margin-bottom: 19px;
+    }
+
+    
+    .work-con {
+        position: absolute;
+        transform: translateY(20%);
+    }
+
+    .work-content i{
+
+        padding-bottom: 9px;
+    }
+
+    .img-fluid{
+
+        height: 91% !important;
+    }
+   
+   
+}
+
+
+@media(max-width:370px){
+
+    .work-content i {
+        font-size: 20px;
+    }
+
+    .work-content h3{
+
+        font-size: 19px;
+    }
+
+    .work-content p{
+
+        font-size: 14px;
+    }
+
+    .img-fluid{
+
+        height: 87% !important;
+    }
+}
+
